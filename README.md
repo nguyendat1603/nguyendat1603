@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tiến Đạt</h1>
 <h3 align="center">Passionate about coding, technology, and creating useful projects. Interested in AI, IoT, backend systems, and problem solving. Always learning, experimenting, and turning ideas into reality through code.</h3>
 
-- 🌱 I’m currently learning **Darts,Flutter,esp32,stm32,....**
+- 🌱 I’m currently learning **Darts,Flutter,esp32,stm32,React,Node JS....**
 
-- 💬 Ask me about **Esp32 && STM32**
+- 💬 Ask me about **Esp32, STM32 or Web**
 
 - 📫 How to reach me **nguyentiendat23145@gmail.com**
 
